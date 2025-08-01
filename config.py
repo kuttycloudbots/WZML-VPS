@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7985477124:AAHQRkQJ_lwxUlgyMcLFiXn0cXU57XNdt_4"
+OWNER_ID = 1572929036
+TELEGRAM_API = 25959542
+TELEGRAM_HASH = "814b705305b7ecaa628468c011ea16d1"
+DATABASE_URL = "mongodb+srv://kuttycloudbot:15@tsleech.o8avg.mongodb.net/?retryWrites=true&w=majority&appName=TSLeech"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
